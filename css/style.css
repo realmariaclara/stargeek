@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: linear-gradient(180deg, rgba(105, 202, 233, 0.79) 5.7%, #F4C95A 46%, rgba(234, 249, 66, 0.68) 93.02%);
+    height: 100vh;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+header > a{
+    text-decoration: none;
+    background-color:#F890DB ;
+    color: black;
+    width: 150px;
+    text-align: center;
+    padding: 10px
+}
+
+.principal{
+border-radius: 10px;
+background-color: rgba(0, 0, 0, 0.68);
+margin: 0 auto;
+width: 700px;
+height: 600px;
+text-align: center;
+padding-top: 50px;
+}
+
+.principal > div{
+    padding-top: 30px;
+    height: 300px;
+}
+
+.senha{
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+
+.principal > div > input{
+    background-color: #F890DB;;
+    width: 626px;
+    padding: 25px;
+}
+
+.botao{
+    background-color: #69CAE9;
+    color: black;
+    padding: 10px 40px;
+    margin: 20px;
+    text-decoration: none;
+    border: 2px solid rgb(109, 103, 220);
+    font-weight: 400px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    margin-top: 60px;
+}
+
+h1{
+    text-align: center; color: #212629;
+    margin: 20px;
+}
+
+h1-1{
+    text-align: center; color: #4d5961;
+    margin: 20px;
+}
+
+h1-2{
+    text-align: center; color: black;
+    margin: 40px;
+    padding-top: 20px;
+}
+
+legend{
+    text-align: center;
+    margin: 10px;
+    font-weight: 400px;
+}
+
+table{
+    border: #0000cd;
+}
+textarea{
+            width: 100%;
+}
+
+.botao-1{
+    background-color: #F87DD5;
+    color: black;
+    padding: 10px 40px;
+    margin: 20px;
+    border: 2px solid black;
+    font-weight: 400px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    width: 190px;
+}
+
+.botao-1 > a{   
+    text-decoration:none;
+}
+
+div > botao-2 > botao-3{
+    align-items: center;
+}
+
+.botao-2{
+    background-color: rgba(0, 0, 0, 0.27);
+    color: black;
+    padding: 10px 40px;
+    margin: 20px;
+    border: 2px solid black;
+    font-weight: 400px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    width: 190px;
+}
+
+.botao-3{
+    background-color: #E488D6;
+    color: black;
+    padding: 10px 40px;
+    margin: 20px;
+    border: 2px solid black;
+    font-weight: 400px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    width: 190px;
+}
+
+form{
+    margin: 30px auto;
+    width: 450px;
+    height: 250px;
+}
+
