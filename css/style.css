@@ -208,7 +208,6 @@ main{
 .logo{
     width: 25px;
     margin-right: 25px;
-    background-color: none;
 }
 
 h3{
@@ -234,4 +233,8 @@ h3{
 h3{
     margin-top: 30px;
     margin-left: 58px;
+}
+
+.seta{
+    background-color: none;
 }
