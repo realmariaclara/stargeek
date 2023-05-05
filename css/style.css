@@ -208,6 +208,7 @@ main{
 .logo{
     width: 25px;
     margin-right: 25px;
+    background-color: none;
 }
 
 h3{
